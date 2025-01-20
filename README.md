@@ -4,7 +4,6 @@
 
 Proyecto para el programa ONE-Backend. La app está desarrollada en Java 17 para realizar la conversión de distintas monedas. Se basa en el consumo de la API de [ExchangeRate-API](https://www.exchangerate-api.com/), de este modo esta app se alimenta de los listados de países y de la tasa de cambio entre dos monedas dadas.
 
-`Si deseas probar la aplicación visita el apartado de preparación del ambiente! :3`
 
 ## Tabla de contenidos
 
