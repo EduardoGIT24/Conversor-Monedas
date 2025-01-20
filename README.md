@@ -162,6 +162,3 @@ Para la ejecución de la app es necesario seguir los pasos que te presento a con
 - Finalmente, añades tu api-key en el apartado de variables de entorno con el nombre de la variable: `EXCHANGE-API-KEY` y seleccionas `OK`.
 <img  alt="env" width="700px" height="600px" src="https://github.com/PatoProgramador/Conversor-de-monedas/assets/72218702/ff59113e-5cff-4135-9df9-e0558bb371f7" >
 
-### salir
-
-Espero que no hagas llegado hasta aquí porque clickeaste la opción salir 🤨
